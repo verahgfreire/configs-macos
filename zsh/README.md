@@ -19,6 +19,8 @@ MacOS Terminal:
 iTerm2:
 * Go to preferences > profiles > colors > load presets
 
+## Change the zsh theme
+* When the installation is done, edit ~/.zshrc and set ZSH_THEME="agnoster"
 
 Docs:
 https://gist.github.com/mccabe615/8834e2071f76b2af9f087e3922e9b154
